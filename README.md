@@ -1,2 +1,2 @@
 # scream
-Programs without computation.
+Scream is a glorified times and addition table.
