@@ -1,6 +1,6 @@
 fn main() {
     let mut commands = Vec::new();
-    println!("Generating the 4-bit adding machine.");
+    println!("Generating the 4-bit adding/subtracting machine.");
     for number1 in 1..15{
         for number2 in 1..15{ 
             commands.push(format!("{}+{}", number1, number2));
